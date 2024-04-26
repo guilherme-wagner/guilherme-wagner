@@ -45,15 +45,4 @@
 <a href="https://projetonetflix.streamlit.app">➡️ Clique aqui para vizualizar o projeto.</a>
 
 <h2>Linkedin Para Contato</h2>
-<a href="https://www.linkedin.com/in/guilherme-wagner">Cilque aqui para acessar o perfil.</a>
-
-<!---
-guilherme-wagner/guilherme-wagner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!---
-guilherme-wagner/guilherme-wagner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/guilherme-wagner">➡️ Cilque aqui para acessar o perfil.</a>

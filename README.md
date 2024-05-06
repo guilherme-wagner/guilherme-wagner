@@ -1,4 +1,4 @@
-
+<img src="https://github.com/guilherme-wagner/guilherme-wagner/blob/main/imagens/banner.jpg">
 <h1>Bem-vindo(a) ao meu Perfil!</h1>
 <p>Aqui você encontrará os meus projetos pessoais, divididos por seções contendo uma explicação e seus respectivos links para acesso.</p>
 

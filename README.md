@@ -43,6 +43,7 @@
   <li>Streamlit Community: Para fazer ligação com o GitHub e fazer o deploy da aplicação.</li>
 </ul>
 <a href="https://projetonetflix.streamlit.app" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/bot_vizualizar.png" widht="110" height="40"></a>
+<br><strong>OBS: Caso a mensagem "This app has gone to sleep due to inactivity. Would you like to wake it back up?" for exibida basta clicar no botão "Yes, get this app back up!" e aguardar o carregamento da página.</strong>
 
 <h2>Contato</h2>
 <a href="https://www.linkedin.com/in/guilherme-wagner" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/logo_linkedin.png" widht="110" height="40"></a>

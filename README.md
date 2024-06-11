@@ -54,3 +54,5 @@
 <h2>Contato</h2>
 <a href="https://www.linkedin.com/in/guilherme-wagner" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/logo_linkedin.png" widht="110" height="40"></a>
 
+<h2>Contador de Visitas</h2>
+<p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilherme-wagner&s=50&c=a079c7&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 

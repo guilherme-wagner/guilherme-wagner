@@ -3,7 +3,13 @@
 <p>Aqui você encontrará os meus projetos pessoais, divididos por seções contendo uma explicação e seus respectivos links para acesso.</p>
 
 <h2>Sobre Mim</h2>
+
+![Guilherme Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-wagner&hide=contribs,prs&show_icons=true&theme=dark&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-wagner&layout=compact&show_icons=true&theme=dark&bg_color=00000000)
+
 <p>Me chamo Guilherme, atualmente estou no último período do curso de Engenharia da Computação. Sou apaixonado pelo mundo da tecnologia e estou em busca de oportunidades dentro da área de TI, onde terei a possibilidade de aplicar minha paixão pela programação e meu interesse crescente em ánalise de dados. O intuito do perfil é hospedar meus projetos e que os mesmos fiquem acessíveis as pessoas e a recrutadores para que eles possam compreender meu nível de conhecimento em tais tecnologias. Dito isso, confira os mesmos logo abaixo:</p>
+
+
 
 <h2>Site de Calculadoras</h2>
 <p>Esse foi o meu primeiro projeto particular. A proposta do site foi juntar três tipos de calculadoras voltadas para a área da saúde, sendo uma para cálculo de IMC, outra para cálculo da taxa metabólica basal e uma para calcular o percentual de gordura (BF). Quando criei o site, meu conhecimento de CSS e HTML era limitado, pois eu estava começando os estudos com HTML e CSS e por isso neste projeto não vamos encontrar um código semântico e bem estruturado.</p>

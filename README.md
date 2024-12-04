@@ -9,6 +9,18 @@
 
 <p>Me chamo Guilherme, atualmente estou no último período do curso de Engenharia da Computação. Sou apaixonado pelo mundo da tecnologia e estou em busca de oportunidades dentro da área de TI, onde terei a possibilidade de aplicar minha paixão pela programação e meu interesse crescente em ánalise de dados. O intuito do perfil é hospedar meus projetos e que os mesmos fiquem acessíveis as pessoas e a recrutadores para que eles possam compreender meu nível de conhecimento em tais tecnologias. Dito isso, confira os mesmos logo abaixo:</p>
 
+<h2>Calculadora de Índice de Rendimento Acadêmico</h2>
+<p>Esta aplicação web, desenvolvida em Python com o framework Streamlit, permite que você calcule seu IRA (Índice de Rendimento Acadêmico). Com uma interface intuitiva, a ferramenta facilita o cálculo da métrica acadêmica.</p>
+<p>Para criar esse projeto foram necessários conhecimentos em:</p>
+<ul>
+  <li>Linguagem de Programação Python.</li>
+  <li>GitHub e Streamlit Cloud: Para hospedar o projeto e realizar o versionamento de código.</li>
+</ul>
+<a href="https://calcular-ira.streamlit.app" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/bot_vizualizar.png" widht="110" height="40"></a>
+<br><strong>OBS: Caso a mensagem "This app has gone to sleep due to inactivity. Would you like to wake it back up?" for exibida basta clicar no botão "Yes, get this app back up!" e aguardar o carregamento da página.</strong>
+
+
+
 <h2>Calculadora de Porcentagem de Ativo em Python</h2>
 <p>Esta aplicação web, desenvolvida em Python com o framework Streamlit, permite que investidores calculem rapidamente a porcentagem paga por um ativo em relação ao seu preço na data de pagamento. Com uma interface intuitiva, a ferramenta facilita a análise do desempenho dos ativos, tornando o processo de tomada de decisão mais eficiente.</p>
 <p>Para criar esse projeto foram necessários conhecimentos em:</p>

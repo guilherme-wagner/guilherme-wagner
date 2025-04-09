@@ -21,7 +21,7 @@
 </ul>
 <p>O projeto também implementa anúncios (Google AdMob) e possui otimizações para uma melhor experiência do usuário.</p>
 <p>Você pode baixar e testar o app atráves do link abaixo:</p>
-<a href="https://play.google.com/store/apps/details?id=com.guiwagner.melhoropcao" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/bot_vizualizar.png" widht="110" height="40"></a>
+<a href="https://play.google.com/store/apps/details?id=com.guiwagner.melhoropcao" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/guilherme-wagner/refs/heads/main/imagens/bot_visualizar.png" widht="110" height="40"></a>
 
 <h2>Calculadora de Índice de Rendimento Acadêmico</h2>
 <p>Esta aplicação web, desenvolvida em Python com o framework Streamlit, permite que você calcule seu IRA (Índice de Rendimento Acadêmico). Com uma interface intuitiva, a ferramenta facilita o cálculo da métrica acadêmica.</p>
@@ -30,7 +30,7 @@
   <li>Linguagem de Programação Python.</li>
   <li>GitHub e Streamlit Cloud: Para hospedar o projeto e realizar o versionamento de código.</li>
 </ul>
-<a href="https://calcular-ira.streamlit.app" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/bot_vizualizar.png" widht="110" height="40"></a>
+<a href="https://calcular-ira.streamlit.app" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/guilherme-wagner/refs/heads/main/imagens/bot_visualizar.png" widht="110" height="40"></a>
 <br><strong>OBS: Caso a mensagem "This app has gone to sleep due to inactivity. Would you like to wake it back up?" for exibida basta clicar no botão "Yes, get this app back up!" e aguardar o carregamento da página.</strong>
 
 <h2>Calculadora de Porcentagem de Ativo em Python</h2>
@@ -41,7 +41,7 @@
   <li>GitHub e Streamlit Cloud: Para hospedar o projeto e realizar o versionamento de código.</li>
   <li>API yfinance para consultar valores dos ativos.</li>
 </ul>
-<a href="https://calculadoraderendimentos.streamlit.app" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/bot_vizualizar.png" widht="110" height="40"></a>
+<a href="https://calculadoraderendimentos.streamlit.app" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/guilherme-wagner/refs/heads/main/imagens/bot_visualizar.png" widht="110" height="40"></a>
 <br><strong>OBS: Caso a mensagem "This app has gone to sleep due to inactivity. Would you like to wake it back up?" for exibida basta clicar no botão "Yes, get this app back up!" e aguardar o carregamento da página.</strong>
 
 <h2>Site de Calculadoras</h2>
@@ -52,7 +52,7 @@
   <li>Javascript: Para fazer a captura dos dados inseridos pelo usuário e realizar os cálculos.</li>
   <li>GitHub: Para hospedar o projeto.</li>
 </ul>
-<a href="https://guilherme-wagner.github.io/calculadoras-online" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/bot_vizualizar.png" widht="110" height="40"></a>
+<a href="https://guilherme-wagner.github.io/calculadoras-online" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/guilherme-wagner/refs/heads/main/imagens/bot_visualizar.png" widht="110" height="40"></a>
 
 <h2>Segmentação de Imagem</h2>
 <p>Esse foi um trabalho desenvolvido durante o meu curso na matéria de processamento digital de imagens. A idéia do trabalho solicitado era que fosse aplicado uma segmentação (Separação da imagem em partes) em uma imagem de nossa escolha. De maneira resumida, a segmentação de imagem é feita com o intuito de identificar objetos, analíses, reconhecimento de padrões e outras aplicações. A segmentação é importante pois permite que os sistemas de computadores interajam com o mundo ao nosso redor de maneira mais inteligente e eficiente.</p>
@@ -61,7 +61,7 @@
   <li>Google Colab.</li>
   <li>Linguagem de programação Python e algumas bibliotecas de manipulação de imagem.</li>
 </ul>
-<a href="https://colab.research.google.com/drive/15FvQYRbQtoWuSuuCzFRM0EDMTUxZ-H7u?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/bot_vizualizar.png" widht="110" height="40"></a>
+<a href="https://colab.research.google.com/drive/15FvQYRbQtoWuSuuCzFRM0EDMTUxZ-H7u?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/guilherme-wagner/refs/heads/main/imagens/bot_visualizar.png" widht="110" height="40"></a>
 
 <!--
 <h2>Site de Receitas</h2>
@@ -83,7 +83,7 @@
   <li>GitHub: Para hospedar o projeto e realizar o versionamento de código.</li>
   <li>Streamlit Community: Para fazer ligação com o GitHub e fazer o deploy da aplicação.</li>
 </ul>
-<a href="https://projetonetflix.streamlit.app" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/python/main/bot_vizualizar.png" widht="110" height="40"></a>
+<a href="https://projetonetflix.streamlit.app" target="_blank"><img src="https://raw.githubusercontent.com/guilherme-wagner/guilherme-wagner/refs/heads/main/imagens/bot_visualizar.png" widht="110" height="40"></a>
 <br><strong>OBS: Caso a mensagem "This app has gone to sleep due to inactivity. Would you like to wake it back up?" for exibida basta clicar no botão "Yes, get this app back up!" e aguardar o carregamento da página.</strong>
 
 <h2>Contato</h2>
